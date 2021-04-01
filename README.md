@@ -18,4 +18,4 @@ If your application has a need to store state in the database, you can use the e
 
 
 ### License
-React is [MIT licensed](./LICENSE).
+[MIT licensed](./LICENSE).
