@@ -1,5 +1,6 @@
 # BatchProcessing
-Batch processing of anonymous tasks
+Batch processing of anonymous tasks. 
+This batch manager can be used for sequential and parallel operation, depending on the settings. Examples of use: zip archives, math calculations and others.
 
 ## Examples
 ```CSharp
